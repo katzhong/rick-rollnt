@@ -1,0 +1,15 @@
+{
+   "name": "Rick Rolln't",
+  "version": "0.1"
+  "manifest_verstion": 1,
+  "description": "Google Chrome Extension that blocks Rick Rolls.",
+  "permissions": [
+  ],
+"app": {
+  "background": {
+    "scripts":[
+      "background.js"
+    ]
+  }
+}
+}
